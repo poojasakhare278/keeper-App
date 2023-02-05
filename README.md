@@ -5,7 +5,7 @@ Keeper App is a note-taking app similar to Google's Keep App made in react.js.
 ## To run the app, run the below commands
 
  - ``` git clone https://github.com/poojasakhare278/keeper-App.git ```
- - ``` npm run serve ```
+ - ``` npm run start ```
  
  App ScreenShots
  
